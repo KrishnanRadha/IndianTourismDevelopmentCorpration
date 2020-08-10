@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 30px;
+}
+
+#customers td, #customers th {
+  border: 3px solid #0080c0;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #e7e7e7;}
+
+#customers tr {background-color: #e7e7e7;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #408080;
+  color: white;
+}
+ 
+

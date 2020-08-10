@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+	.bill{
+		margin:30px 300px 0px 300px;
+		padding:30px 50px 30px 50px;
+		border:2px gray solid;
+		background-color: white;
+	}
+	p{
+		color:green;
+	}
+	h3{
+		color:maroon;
+	}
+	h4{
+		color:red;
+	}
+	button{
+		padding:10px 30px 10px 30px;
+		margin-left:50px;
+		background-color:#008080;
+		color:white;
+		border:2px maroon groove;
+		
+	}
